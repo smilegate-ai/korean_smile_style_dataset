@@ -54,9 +54,8 @@ Smilegate AI에서 공개하는 한국어 문체 스타일 변환 "SmileStyle" �
     
     
 ## 2. 데이터셋 예제   
-본 데이터셋은 동일한 대화 데이터에 대해 17개의 서로 다른 스타일로 문체를 변환시킨 데이터입니다.
-각 스타일에 대한 설명은 아래와 같습니다.
-    
+![example](https://github.com/smilegate-ai/korean_smile_style_dataset/blob/main/example.png)
+
     
 ## 3. Citation
 ```
@@ -67,7 +66,7 @@ Smilegate AI에서 공개하는 한국어 문체 스타일 변환 "SmileStyle" �
   howpublished  = {\url{https://github.com/smilegate-ai/korean_smile_style_dataset}},
 }
 ```
-
+    
 ## 4. License
 Smilegate AI `SmileStyle`의 `데이터셋`은 [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 라이선스 하에 공개되어 있습니다.   
 코드 및 모델, 데이터셋을 사용할 경우 라이선스 내용을 준수해 주십시오.    
