@@ -23,7 +23,7 @@ Smilegate AI에서 공개하는 한국어 문체 스타일 변환 "SmileStyle" �
 챗봇의 채팅 스타일입니다. (e.g. 몇 살임?)    
 - [choding]    
 어린아이 말투 스타일입니다. (e.g. 몇 살임?)    
-- [emodicon]    
+- [emoticon]    
 반말 스타일에 이모티콘을 부착하였습니다. (e.g. 몇 살이야???? (´･ω･`)?)    
 - [enfp]    
 외향적인 스타일입니다. (e.g. 올해 몇살이양~?!?)    
@@ -44,5 +44,9 @@ Smilegate AI에서 공개하는 한국어 문체 스타일 변환 "SmileStyle" �
 - [sosim]    
 소심한 스타일입니다. (e.g. 혹시.. 몇살이야..?ㅠ)    
 - [translator]    
-번역기 스타일입니다. (e.g. 당신은 몇 년?)    
+번역기 스타일입니다. (e.g. 당신은 몇 년?)      
 
+
+항목 | formal | informal | android | azae | chat | choding | emoticon | enfp | gentle | halbae | halmae | joongding | king | naruto | seonbi | sosim | translator
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+대화 개수 | 235 | 235 | 123 | 74 | 235 | 235 | 125 | 117 | 118 | 125 | 70 | 235 | 123 | 125 | 125 | 123 | 104 |
