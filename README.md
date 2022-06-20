@@ -51,3 +51,13 @@ Smilegate AI에서 공개하는 한국어 문체 스타일 변환 "SmileStyle" �
 --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 대화 개수 | 235 | 235 | 123 | 74 | 235 | 235 | 125 | 117 | 118 | 125 | 70 | 235 | 123 | 125 | 125 | 123 | 104 |
 문장 개수 | 3,470 | 3,470 | 1,775 | 1,025 | 3,470 | 3,470 | 1,797 | 1,689 | 1,703 | 1,794 | 1,013 | 3,470 | 1,775 | 1,797 | 1,797 | 1,775 | 1,504 |
+
+## 2. Citation
+```
+@misc{SmilegateAI2022KoreanSmileStyleDataset,
+  title         = {SmileStyle: Parallel Style-variant Corpus for Korean Multi-turn Chat Text Dataset},
+  author        = {Seonghyun Kim},
+  year          = {2022},
+  howpublished  = {\url{https://github.com/smilegate-ai/korean_smile_style_dataset}},
+}
+```
