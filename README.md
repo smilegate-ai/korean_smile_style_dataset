@@ -69,6 +69,6 @@ Smilegate AI에서 공개하는 한국어 문체 스타일 변환 "SmileStyle" �
     
 ## 4. License
 Smilegate AI `SmileStyle`의 `데이터셋`은 [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 라이선스 하에 공개되어 있습니다.   
-코드 및 모델, 데이터셋을 사용할 경우 라이선스 내용을 준수해 주십시오.    
+데이터셋을 사용할 경우 라이선스 내용을 준수해 주십시오.    
 데이터셋의 상업적 사용의 경우, `smilegate_ai@smilegate.com` 으로 문의 부탁드립니다.    
 본 데이터셋의 내용은 Smilegate AI의 의견과 무관합니다. 
